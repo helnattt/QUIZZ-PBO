@@ -5,7 +5,7 @@ public class quizpbo {
 		String nama;
 		int totalharga,kembali,harga,tipe,meteran,bayar;
 		
-		System.out.println("=====Tipe Pesawat=====");
+		System.out.println("=====Tipe Rumah=====");
 		System.out.println("Tipe Rumah 31 : Rp 100000");
 		System.out.println("Tipe Rumah 32 : Rp 125000");
 		System.out.println("Tipe Rumah 33 : Rp 450000");
